@@ -24,5 +24,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=JEYANTH-GIT&icon=0&color=0)](https://visitcount.itsvg.in)
-![Snake animation](https://github.com/JEYANTH-GIT/JEYANTH-GIT/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/JEYANTH-GIT/JEYANTH-GIT/output/github-contribution-grid-snake.svg)
+
 
