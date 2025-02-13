@@ -40,8 +40,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=JEYANTH-GIT&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-
-## 🏆 Coding Profiles & Rankings:
-- **SkillRack Score**: 🌟 **[150]** ([https://skillrack.com/faces/candidate/leaderboardtrack.xhtml?RT=CODETRACK](https://www.skillrack.com/faces/login.xhtml))
----
 [![](https://visitcount.itsvg.in/api?id=JEYANTH-GIT&icon=0&color=0)](https://visitcount.itsvg.in)
